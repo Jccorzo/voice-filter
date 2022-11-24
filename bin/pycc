@@ -1,0 +1,3 @@
+#!/Users/juan.corzo/Documents/usb/filter/bin/python3.10
+from numba.pycc import main
+main()
